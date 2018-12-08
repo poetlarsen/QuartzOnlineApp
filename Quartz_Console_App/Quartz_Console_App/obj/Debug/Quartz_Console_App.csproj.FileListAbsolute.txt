@@ -1,0 +1,9 @@
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\bin\Debug\Quartz_Console_App.exe.config
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\bin\Debug\Quartz_Console_App.exe
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\bin\Debug\Quartz_Console_App.pdb
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\obj\Debug\Quartz_Console_App.csprojResolveAssemblyReference.cache
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\obj\Debug\Quartz_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\obj\Debug\Quartz_Console_App.exe
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\obj\Debug\Quartz_Console_App.pdb
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\bin\Debug\Dapper.dll
+C:\Users\poet\source\repos\Quartz_Console_App\Quartz_Console_App\bin\Debug\Dapper.xml
